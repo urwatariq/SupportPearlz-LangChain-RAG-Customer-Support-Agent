@@ -1,0 +1,4 @@
+SKU,product_name,description,list_price,current_promotional_price,availability
+AP500,AquaPearl 500 Pro,Purifier,85000,79999,in_stock
+SF-100,Sediment Filter,Replacement sediment filter,3500,2999,in_stock
+AP400,AquaPearl 400,Old purifier,65000,,discontinued

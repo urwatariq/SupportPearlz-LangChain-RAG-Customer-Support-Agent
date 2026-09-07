@@ -1,0 +1,2 @@
+AquaPearl 500 Pro Manual
+In the box: unit, power adapter, inlet tube, sediment pre-filter, carbon cartridge, quick-start card and manual. Replace sediment pre-filter on E-03 then hold RESET five seconds. Wipe exterior weekly; descale every six months.

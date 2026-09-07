@@ -1,0 +1,2 @@
+Privacy Policy
+Purchase contact and delivery data plus app account identifiers and water-usage telemetry may be collected. Cookies support session and preferences. Access, deletion and export: privacy@pearlzhome.example.

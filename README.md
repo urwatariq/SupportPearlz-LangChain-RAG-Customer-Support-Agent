@@ -1,7 +1,7 @@
 # SupportPearlz — LangChain RAG Customer Support Agent
 
 ## 🚀 Live App
-### [Open SupportPearlz](PASTE_YOUR_STREAMLIT_LINK_HERE)
+### [Open SupportPearlz](https://supportpearlz-langchain-rag-app.streamlit.app/)
 
 Evidence-grounded customer support using LangChain, persistent Chroma retrieval, conversation-aware query rewriting, relevance gating, structured responses and citations.
 
